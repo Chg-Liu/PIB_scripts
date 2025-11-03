@@ -1,0 +1,5 @@
+#!/bin/sh
+qpF4ratio -p parfile1.txt > f41.txt
+qpF4ratio -p parfile2.txt > f42.txt
+qpF4ratio -p parfile3.txt > f43.txt
+qpF4ratio -p parfile4.txt > f44.txt

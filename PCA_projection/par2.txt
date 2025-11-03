@@ -1,0 +1,7 @@
+genotypename: ../data/combined.Mappability50_MAFLD.geno
+snpname:      ../data/combined.Mappability50_MAFLD.snp
+indivname:    ../data/combined.Mappability50_MAFLD.ind
+evecoutname:  test2.evec
+evaloutname:  test2.eval
+poplistname:  poplist2.txt
+numthreads: 8

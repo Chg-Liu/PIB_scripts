@@ -1,0 +1,4 @@
+indivname: ../data/allchr_MAFLD.ind
+snpname: ../data/allchr_MAFLD.snp
+genotypename: ../data/allchr_MAFLD.geno
+popfilename: list36.txt

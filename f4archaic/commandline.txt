@@ -1,0 +1,15 @@
+#!/bin/sh
+qpDstat -p parfile1.txt > f41.txt
+qpDstat -p parfile2.txt > f42.txt
+qpDstat -p parfile3.txt > f43.txt
+qpDstat -p parfile4.txt > f44.txt
+qpDstat -p parfile5.txt > f45.txt
+qpDstat -p parfile6.txt > f46.txt
+qpDstat -p parfile7.txt > f47.txt
+qpDstat -p parfile8.txt > f48.txt
+qpDstat -p parfile9.txt > f49.txt
+qpDstat -p parfile10.txt > f410.txt
+qpDstat -p parfile11.txt > f411.txt
+qpDstat -p parfile12.txt > f412.txt
+qpDstat -p parfile13.txt > f413.txt
+qpDstat -p parfile14.txt > f414.txt

@@ -1,0 +1,5 @@
+indivname: ../data/combined.Mappability50_MAFLD.ind
+snpname: ../data/combined.Mappability50_MAFLD.snp
+genotypename: ../data/combined.Mappability50_MAFLD.geno
+popfilename: list13.txt
+f4mode:   YES

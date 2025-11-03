@@ -1,0 +1,15 @@
+#!/bin/sh
+qpDstat -p parfile1.txt > Dstat1.txt
+qpDstat -p parfile2.txt > Dstat2.txt
+qpDstat -p parfile3.txt > Dstat3.txt
+qpDstat -p parfile4.txt > Dstat4.txt
+qpDstat -p parfile5.txt > Dstat5.txt
+qpDstat -p parfile6.txt > Dstat6.txt
+qpDstat -p parfile7.txt > Dstat7.txt
+qpDstat -p parfile8.txt > Dstat8.txt
+qpDstat -p parfile9.txt > Dstat9.txt
+qpDstat -p parfile10.txt > Dstat10.txt
+qpDstat -p parfile11.txt > Dstat11.txt
+qpDstat -p parfile12.txt > Dstat12.txt
+qpDstat -p parfile13.txt > Dstat13.txt
+qpDstat -p parfile14.txt > Dstat14.txt
